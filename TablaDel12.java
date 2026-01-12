@@ -10,4 +10,7 @@ public class TablaDel12
     { 
         System.out.println(">Esta es la tabla del 12");
     }
+    { 
+        System.out.println(">Se ha imprimido por pantalla la tabla del 12.");
+    }
 }
